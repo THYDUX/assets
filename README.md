@@ -19,7 +19,7 @@ Such a large collection can be maintained only through a community effort, so _f
 
 Please note that __brand new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__
-(for limit details see <https://developer.trustwallet.com/listing-new-assets/requirements>).
+for limit details see [DUX](https://developer.trustwallet.com/listing-new-assets/requirements).
 
 ### Assets App
 
